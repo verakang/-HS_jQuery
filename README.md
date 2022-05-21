@@ -1,3 +1,3 @@
-# HS
+# HS_jQuery
 
-https://verakang.github.io/HS/
+https://verakang.github.io/HS_jQuery/
