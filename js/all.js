@@ -17,6 +17,17 @@ $(document).ready(function () {
     });
 
     // Lightbox 燈箱效果
-
+    var swiper = new Swiper(".mySwiper", {
+        pagination: {
+            el: ".swiper-pagination",
+        },
+        loop: true,
+        speed: 800,
+        autoplay: {
+            delay: 2000,
+        },
+    });
 
 });
+
+
